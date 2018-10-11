@@ -77,8 +77,19 @@
 * [PHP 脚本执行一个Redis 订阅功能，用于监听键过期事件，返回一个回调，API接受改事件](/Redis-PHP/Php-Run-Redis-psubscribe/nohupRedisNotify.php)   
 * [阿里云Redis开发规范](https://yq.aliyun.com/articles/531067)   
 * [高可用Redis服务架构分析与搭建](https://mp.weixin.qq.com/s/DA4uhPULaXI-KDKwvLzb8Q)  
-* [如何轻松搭建电商秒杀系统](https://yq.aliyun.com/articles/277885)<br>---
-* [*使用python来操作redis用法详解*](https://www.jianshu.com/p/2639549bedc8)
+* [如何轻松搭建电商秒杀系统](https://yq.aliyun.com/articles/277885)<br>
+- - -
+<!--
+* - [x] [*使用python来操作redis用法详解*](https://www.jianshu.com/p/2639549bedc8)
+-->
+* [使用python来操作redis用法详解](https://www.jianshu.com/p/2639549bedc8)
+* [高可用Redis服务架构分析与搭建](https://mp.weixin.qq.com/s/DA4uhPULaXI-KDKwvLzb8Q)
+* [Redis用作消息队列](https://blog.csdn.net/qq_34212276/article/details/78455004)
+* [Redis持久化方式](http://doc.redisfans.com/topic/persistence.html)
+> RDB方式：定期备份快照，常用于灾难恢复。优点：通过fork出的进程进行备份，不影响主进程、RDB 在恢复大数据集时的速度比 AOF 的恢复速度要快。缺点：会丢数据。
+> AOF方式：保存操作日志方式。优点：恢复时数据丢失少，缺点：文件大，回复慢。
+> 也可以两者结合使用
+> 摘自: [architect-awesome](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis)
 
 ####  Openresty 教程  
 
@@ -103,6 +114,9 @@
 * [命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)   
 * [实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)   
 * [定时器教程](http://www.ruanyifeng.com/blog/2018/03/systemd-timer.html)   
+* 零拷贝技术(zero-copy)  
+  * [浅析Linux中的零拷贝技术](https://www.jianshu.com/p/fad3339e3448)
+  * [Linux 中的零拷贝技术](https://www.ibm.com/developerworks/cn/linux/l-cn-zerocopy1/index.html)
 
 #### Shell 教程    
 * [编写快速安全Bash脚本的建议](https://www.oschina.net/translate/bash-scripting-quirks-safety-tips)  
@@ -113,3 +127,12 @@
 * [Mysql 自动备份脚本安全加锁机制](/Nginx-Rtmp/backup_mysql.sh)   
 * [PHP和Shell 脚本如何很好的搭配](/PHP/php-shell_run.md)  
 
+#### Markdown 教程
+* [Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html)
+
+#### Python 教程
+* [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
+* [python logging模块使用教程](https://www.jianshu.com/p/feb86c06c4f4)
+
+#### Misc
+* [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
