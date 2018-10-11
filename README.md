@@ -77,7 +77,8 @@
 * [PHP 脚本执行一个Redis 订阅功能，用于监听键过期事件，返回一个回调，API接受改事件](/Redis-PHP/Php-Run-Redis-psubscribe/nohupRedisNotify.php)   
 * [阿里云Redis开发规范](https://yq.aliyun.com/articles/531067)   
 * [高可用Redis服务架构分析与搭建](https://mp.weixin.qq.com/s/DA4uhPULaXI-KDKwvLzb8Q)  
-* [如何轻松搭建电商秒杀系统](https://yq.aliyun.com/articles/277885)  
+* [如何轻松搭建电商秒杀系统](https://yq.aliyun.com/articles/277885)<br>---
+* [*使用python来操作redis用法详解*](https://www.jianshu.com/p/2639549bedc8)
 
 ####  Openresty 教程  
 
