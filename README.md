@@ -142,6 +142,13 @@
   * [一条消息是如何从生产到被消费的](https://zhuanlan.zhihu.com/p/46412848)
   * [刨根问底](https://zhuanlan.zhihu.com/p/46415489)
   * [如何设计一个靠谱的消息中间件](https://zhuanlan.zhihu.com/p/46417568)
+  * [Nsq vs Kafka](https://zhuanlan.zhihu.com/p/46421050)
+  > Kafka比较适合于大数据处理之类的业务, Kafka是pull的，在消息实时性上肯定不及采用push的Nsq
+  * [Nsq in 有赞](https://zhuanlan.zhihu.com/p/46510900)
+  > Nsq有几个缺陷:
+  > 1. 生产者不能动态发现nsq
+  > 2. 数据缺少备份
+  > 3. 无法实现顺序消费
 
 #### Misc
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
