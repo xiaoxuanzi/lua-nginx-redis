@@ -1,3 +1,5 @@
+
+
 #### Nginx 教程   
 
 ###### 基础  
@@ -133,6 +135,13 @@
 #### Python 教程
 * [Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [python logging模块使用教程](https://www.jianshu.com/p/feb86c06c4f4)
+
+#### 消息队列(MQ) 教程
+* [NSQ](https://nsq.io/)  
+  * [从队列到消息中间件](https://zhuanlan.zhihu.com/p/46201859)
+  * [一条消息是如何从生产到被消费的](https://zhuanlan.zhihu.com/p/46412848)
+  * [刨根问底](https://zhuanlan.zhihu.com/p/46415489)
+  * [如何设计一个靠谱的消息中间件](https://zhuanlan.zhihu.com/p/46417568)
 
 #### Misc
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
