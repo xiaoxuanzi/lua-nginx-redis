@@ -151,5 +151,10 @@
   > 3. 无法实现顺序消费
   * [NSQ网络拓扑模式](https://nsqbook.readthedocs.io/en/latest/deployment/topology-patterns.html)
   * [视频](http://video.tudou.com/v/XMjIyMjI3MDk5Ng==.html?__fr=oldtd)
+  
+#### 基于TCP时钟指纹
+* [專訪台科大「基於時脈偏移的裝置識別技術於雲端服務之研究」](https://www.openfoundry.org/en/foss-projects/9279-ncs-project-2162)
+* [clock-skew PAPER](https://github.com/xiaoxuanzi/clock-skew)
+> 原因是电子钟的石英振荡器的振盪频率不一致所致
 #### Misc
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
