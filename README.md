@@ -149,6 +149,7 @@
   > 1. 生产者不能动态发现nsq
   > 2. 数据缺少备份
   > 3. 无法实现顺序消费
-
+  * [NSQ网络拓扑模式](https://nsqbook.readthedocs.io/en/latest/deployment/topology-patterns.html)
+  * [视频](http://video.tudou.com/v/XMjIyMjI3MDk5Ng==.html?__fr=oldtd)
 #### Misc
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
